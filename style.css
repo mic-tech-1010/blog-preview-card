@@ -39,7 +39,7 @@ body{
     height: 31.1875rem;
     padding: 1rem;
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 10px 10px 0px black;
+    box-shadow: 0.625rem 0.625rem 0rem black;
 }
 
 .illustration-article {
